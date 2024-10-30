@@ -1,0 +1,8 @@
+NET n1 { c1 c2 c3 c5 c8 }
+NET n2 { c1 c2 c4 c9 }
+NET n3 { c1 c7 }
+NET n4 { c1 c9 c10 }
+NET n5 { c2 c3 c10 }
+NET n6 { c2 c4 }
+NET n7 { c3 c5 c6 c7 c9 }
+NET n8 { c3 c5 c7 c8 }
